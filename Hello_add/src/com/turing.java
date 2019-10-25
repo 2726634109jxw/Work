@@ -9,5 +9,6 @@ public class turing {
 
     public static void main(String[] args) {
         System.out.println("hello java");
+        System.out.println("这是dev中输出的一句话");
     }
 }
